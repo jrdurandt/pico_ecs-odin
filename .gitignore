@@ -1,0 +1,4 @@
+lib/
+pico_ecs-odin
+*.bin
+*.exe
